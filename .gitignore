@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+output/*
+!output/.gitkeep
+*.wav
+*.mp3
+*.mp4
+*.log
+.DS_Store
+Thumbs.db
